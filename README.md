@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://discord.gg/#6931" target="blank"><img width="70px" src="src/ds.png"></a>
 <a href="https://t.me/Masssapeals"><img width="50px" src="src/tg.png"></a>
-<a href="https://vk.com/massappea1s"><img width="50px" src="src/vk.png"></a>
+<a href="https://vk.com/massappea1s"><img width="50px" src="src/vk_black_logo_icon_147058.png"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
