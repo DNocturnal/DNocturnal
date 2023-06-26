@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Valeriia Glebova</h1>
 <h3 align="center">A beginner devops engineer from Russia</h3>
 
-<h3 align="center" -  I’m currently working on [SmartCalc-v2.0](https://github.com/DNocturnal/SmartCalc-v2.0)
+<h3 align="left"> -  I’m currently working on [SmartCalc-v2.0](https://github.com/DNocturnal/SmartCalc-v2.0) 
 
-<h3 align="center" -  I’m currently learning **Jenkins, Ansible, K8s**
+<h3 align="left"> -  I’m currently learning **Jenkins, Ansible, K8s**
 
-<h3 align="center" - 📫 How to reach me **massappeals@mail.ru**
+<h3 align="center"> - 📫 How to reach me **massappeals@mail.ru**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
