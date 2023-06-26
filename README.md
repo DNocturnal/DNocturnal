@@ -3,9 +3,9 @@
 
 <h3 align="left"> - I’m currently working on [SmartCalc-v2.0] and [LinuxMonitoring-v2.0]
 
-<h3 align="left"> - I’m currently learning **Jenkins, Ansible, K8s**</h3>
+<h3 align="left"> - I’m currently learning Jenkins <a href="https://www.jenkins.io/" target="blank"><img width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg"> </a>, Ansible <a href="https://www.ansible.com/" target="blank"><img width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ansible.svg"> </a>, K8s <a href="https://kubernetes.io/ru/" target="blank"><img width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg"> </a></h3>
   
-<h3 align="left"> - Spend leisure time on HackTheBox <a href="https://academy.hackthebox.com/modules" target="blank"><img width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hackthebox.svg"></a></h3>
+<h3 align="left"> - Spend leisure time on HackTheBox <a href="https://academy.hackthebox.com/modules" target="blank"><img width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hackthebox.svg"></a></h3>
 
 
 <h3 align="center">Connect with me:</h3>
