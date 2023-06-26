@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valeriia Glebova</h1>
+<h1 align="center">Hi, I'm Valeriia Glebova</h1>
 <h3 align="center">A beginner devops engineer from Russia</h3>
 
 <h3 align="left"> - I’m currently working on [SmartCalc-v2.0] and [LinuxMonitoring-v2.0]
