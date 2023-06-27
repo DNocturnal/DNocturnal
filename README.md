@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Valeriia Glebova</h1>
 <h3 align="center">A beginner devops engineer from Russia</h3>
 
-<h3 align="left"> - I’m currently working on [SmartCalc-v2.0] and [LinuxMonitoring-v2.0]
+<h3 align="left"> - I’m currently working on <a href="https://github.com/DNocturnal/LinuxMonitoring-v2.0" target="blank">LinuxMonitoring-v2.0</a>
 
 <h3 align="left"> - I’m currently learning Jenkins <a href="https://www.jenkins.io/" target="blank"><img width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg"> </a>, Ansible <a href="https://www.ansible.com/" target="blank"><img width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ansible.svg"> </a>, K8s <a href="https://kubernetes.io/ru/" target="blank"><img width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg"> </a></h3>
   
